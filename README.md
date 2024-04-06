@@ -15,8 +15,8 @@ Ziff App is a robust Android App which allows the user a reliable experience whe
 ## Our Features
 • 164 World Currencies\
 • Currency Conversion\
-• Currency Locator\
-• Favourite Currency\
+• Currency Geolocation\
+• Favourite Currencies\
 • Currency Conversion History
 
 Available on the Google Play Store.
