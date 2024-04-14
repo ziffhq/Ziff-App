@@ -13,7 +13,7 @@ Ziff App is an easy-to-use currency conversion app that doesn't make it hard whe
 Ziff App is a robust Android App which allows the user a reliable experience when wanting to perform currency conversions.
 
 ## Our Features
-• 164 World Currencies\
+• All World Currencies\
 • Currency Conversion\
 • Currency Geolocation\
 • Favourite Currencies\
