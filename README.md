@@ -2,6 +2,8 @@
 Ziff App brings a new and revitalised approach to currency conversion; directly on your Android phone!
 
 ## About Us
+Ziff is a sustainability-focused company, that provides accurate currency data and currency conversions on a subscription basis.
+
 ## Why Choose Us
 ### Fast
 We are able to provide a speedy currency conversion experience for each user; so you won't be tired of waiting on your next currency conversion.
