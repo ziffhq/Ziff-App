@@ -1,4 +1,4 @@
-# Ziff App
+7# Ziff App
 Ziff App brings a new and revitalised approach to currency conversion; directly on your Android phone!
 
 ## About Us
@@ -20,7 +20,7 @@ Ziff App is a robust Android App which allows the user a reliable experience whe
 • 165 World Currencies\
 • Currency Conversion\
 • Currency Geolocation\
-• Favourite Currencies\
+• Favourite Currency\
 • Currency Conversion History
 
 Available on the Google Play Store.
